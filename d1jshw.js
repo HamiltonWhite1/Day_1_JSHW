@@ -1,4 +1,4 @@
-//exercise #1
+//Exercise #1
 
 let dogString = "Hello Max, my name is Dog, and I have purple eyes!"
 let dogNames = ["Max", "HAS", "Purple", "dog"]
@@ -17,7 +17,7 @@ var findDogs = (dogName, listOfNames) => {
 }
 findDogs(dogString, dogNames)
 
-//exercise #2
+//Exercise #2
 
 let givenArr = ["Max", "Baseball", "Reboot", "Goku", "Trucks", "Rodger"]
 
