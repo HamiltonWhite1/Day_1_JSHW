@@ -42,7 +42,7 @@ function even_or_odd(number) {
 
 //    https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
 
-// Fourth Code Wars JS problem
+// Fourth Code Wars JS problem. This code passes the Test check on Code Wars, but not the attempt. Unclear as to why. Gives an invalid array length error
 const solution = (number) => {
     sumOfNumber = 0
     for (const x of Array(number).keys()){
